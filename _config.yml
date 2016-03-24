@@ -1,24 +1,18 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+name: More and More
+description: Hello World!
+meta_description: "Hello World!"
 
-# Site settings
-title: Webjjel
-email: webjjel@gmail.com
-description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "webjjel.github.io" # the base hostname & protocol for your site
-# twitter_username: webjjel
-github_username:  webjjel
-
-# Build settings
 markdown: kramdown
-
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: ""
+url: 'http://local.webjjel.github.io:4000'
+#google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
 permalink: pretty
+
 
 host: 0.0.0.0
 
-#category_dir: /
+
