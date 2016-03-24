@@ -8,9 +8,11 @@ logo: false
 paginate: 15
 baseurl: ""
 url: 'http://local.webjjel.github.io:4000'
-#google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-75513441-1'
 gems: [jekyll-paginate]
 permalink: pretty
+
+timezone: Asia/Seoul
 
 
 host: 0.0.0.0
