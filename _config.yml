@@ -7,7 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: ""
-url: 'http://local.webjjel.github.io:4000'
+url: 'http://webjjel.github.io'
 google_analytics: 'UA-75513441-1'
 gems: [jekyll-paginate]
 permalink: pretty
