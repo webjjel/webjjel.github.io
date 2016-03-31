@@ -3,7 +3,7 @@ description: Hello World!
 meta_description: "Hello World!"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: ""
