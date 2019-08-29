@@ -18,3 +18,5 @@ timezone: Asia/Seoul
 host: 0.0.0.0
 
 
+
+theme: jekyll-theme-cayman
